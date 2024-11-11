@@ -1,1 +1,1 @@
-# Block-chain-HealthCare-Analyst
+A Blockchain Healthcare Analyst specializes in integrating blockchain technology within the healthcare sector to enhance data security, streamline operations, and improve patient outcomes. This role involves analyzing how blockchain can solve industry challenges such as data privacy, interoperability, and patient data management.
